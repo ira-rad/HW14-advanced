@@ -1,6 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    background-color: salmon;
+    text-align: center;
+    color: rgb(70, 39, 39);
+}
 .title{
     font-size: 20px;
     color: black;
+    margin-top: 40px;
+    font-size: 25px;
 };
 
 .txt{
